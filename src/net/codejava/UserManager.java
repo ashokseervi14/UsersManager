@@ -22,7 +22,7 @@ public class UserManager {
 			//connection.close();
 		}
 		
-		//insert into 
+		//insert into  users table in sample db
 //		String sql = "INSERT INTO users(username,email,fullname,password) VALUES(?,?,?,?)";
 //		String name = "DEO";
 //		String uname = "Dean";
